@@ -31,8 +31,8 @@
 ## **My stats**
 
 <div style="display: flex; justify-content: space-between;">
-    <img style="width: 45%; margin-right: 5%;" src="https://github-readme-stats.vercel.app/api?username=unixpariah&show_icons=true&theme=tokyonight&count_private=true" alt=""/>
-    <img style="width: 45%;" src="https://github-readme-streak-stats.herokuapp.com?user=unixpariah&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+    <img style="height: 200px; margin-right: 5%;" src="https://github-readme-stats.vercel.app/api?username=unixpariah&show_icons=true&theme=tokyonight&count_private=true" alt=""/>
+    <img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com?user=unixpariah&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 <div>
