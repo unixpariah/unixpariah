@@ -30,9 +30,9 @@
 
 ## **My stats**
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-    <img style="height: 200px; width: auto; margin-right: 5%; flex: 1 1 auto;" src="https://github-readme-stats.vercel.app/api?username=unixpariah&show_icons=true&theme=tokyonight&count_private=true" alt=""/>
-    <img style="height: 200px; width: auto; flex: 1 1 auto;" src="https://github-readme-streak-stats.herokuapp.com?user=unixpariah&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
+    <img style="height: 200px; width: auto; margin-right: 5%; flex: 0 0 auto;" src="https://github-readme-stats.vercel.app/api?username=unixpariah&show_icons=true&theme=tokyonight&count_private=true" alt=""/>
+    <img style="height: 200px; width: auto; flex: 0 0 auto;" src="https://github-readme-streak-stats.herokuapp.com?user=unixpariah&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 <div>
