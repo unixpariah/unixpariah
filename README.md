@@ -35,18 +35,18 @@
 
 ## **My Pride and Joy**
 
-### **My desktop project**
+- **My desktop project**:
 
-<a title="Waystatus: Status bar for wlroots based wayland compositors&#10Rendering from css is handled by my custom crate css-image" href="https://github.com/unixpariah/waystatus" >
+<a title="Waystatus: Status bar for wlroots based wayland compositors&#10Rendering from css is handled by my custom crate css-image" href="https://github.com/unixpariah/waystatus" target="_blank" >
 <img id="status_bar" src="./images/status_bar.png">
 </a>
-<a title="Ruin: The battery indicator&#10Depends on self written wallpaper daemon as library, wlrs which aims to increase performance by reducing reads and writes to disk" href="https://github.com/unixpariah/ruin" >
+<a title="Ruin: The battery indicator&#10Depends on self written wallpaper daemon as library, wlrs which aims to increase performance by reducing reads and writes to disk" href="https://github.com/unixpariah/ruin" target="_blank" >
 <img id="wallpaper" src="./images/wallpaper.png">
 </a>
 
 ## **My stats**
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;">
         <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=unixpariah&show_icons=true&theme=tokyonight&count_private=true" alt=""/>
         <img style="width: 51%;" src="https://github-readme-streak-stats.herokuapp.com?user=unixpariah&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
 </div>
@@ -54,7 +54,7 @@
 
 <div>
    <p align="center">
-     <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unixpariah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+     <img style="height: 250px; padding-top: 50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unixpariah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
     <img src="https://github-profile-trophy.vercel.app/?username=unixpariah&theme=onestar">
   </p>
 </div>
