@@ -34,8 +34,16 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ## **My Pride and Joy**
-<img src="./images/status_bar.png">
-<img src="./images/wallpaper.png">
+
+### **My desktop project**
+
+<a title="Waystatus: Status bar for wlroots based wayland compositors&#10Rendering from css is handled by my custom crate css-image" href="https://github.com/unixpariah/waystatus" >
+<img id="status_bar" src="./images/status_bar.png">
+</a>
+<a title="Ruin: The battery indicator&#10Depends on self written wallpaper daemon as library, wlrs which aims to increase performance by reducing reads and writes to disk" href="https://github.com/unixpariah/ruin" >
+<img id="wallpaper" src="./images/wallpaper.png">
+</a>
+
 ## **My stats**
 
 <div style="display: flex; justify-content: center; align-items: center;">
