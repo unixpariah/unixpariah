@@ -44,6 +44,12 @@
 <img id="wallpaper" src="./images/wallpaper.png">
 </a>
 
+- **Seto** - keyboard based screen selection tool:
+
+<a title="Seto - keyboard based screen selection tool" href="https://github.com/unixpariah/Seto" target="_blank" >
+<img id="wallpaper" src="./images/Seto.png">
+</a>
+
 ## **My stats**
 
 <div style="display: flex; justify-content: center;">
