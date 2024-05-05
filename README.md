@@ -2,7 +2,7 @@
 
 - Proficient in Rust
 - Highly motivated, always willing to go lower
-- Currently rewriting my GUI in rust
+- Currently rewriting my GUI
 
 ## **My Skills**
 
