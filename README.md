@@ -37,25 +37,29 @@
 
 - **My desktop project**:
 
-<a title="Waystatus: Status bar for wlroots based wayland compositors&#10Rendering from css is handled by my custom crate css-image" href="https://github.com/unixpariah/waystatus" target="_blank" >
-<img id="status_bar" src="./images/status_bar.png">
-</a>
-<a title="Ruin: The battery indicator&#10Depends on self written wallpaper daemon as library, wlrs which aims to increase performance by reducing reads and writes to disk" href="https://github.com/unixpariah/ruin" target="_blank" >
-<img id="wallpaper" src="./images/wallpaper.png">
-</a>
+  - *Waystatus* - Simple status bar:
+    <a title="Waystatus: Status bar for wlroots based wayland compositors&#10Rendering from css is handled by my custom crate css-image" href="https://github.com/unixpariah/waystatus" target="_blank" >
+      <img id="status_bar" src="./images/status_bar.png">
+    </a>
 
-- **Seto** - keyboard based screen selection tool:
+  - *Wlrs* - Wallpaper daemon for x11 and wayland as rust library:
 
-<a title="Seto - keyboard based screen selection tool" href="https://github.com/unixpariah/Seto" target="_blank" >
-<img id="wallpaper" src="./images/Seto.png">
-</a>
+    <a title="Ruin: The battery indicator&#10Depends on self written wallpaper daemon as library, wlrs which aims to increase performance by reducing reads and writes to disk" href="https://github.com/unixpariah/ruin" target="_blank" >
+      <img id="wallpaper" src="./images/wallpaper.png">
+    </a>
+
+- **Seto** - Hardware accelerated keyboard based screen selection tool:
+
+  <a title="Seto - keyboard based screen selection tool" href="https://github.com/unixpariah/Seto" target="_blank" >
+    <img id="wallpaper" src="./images/Seto.png">
+  </a>
 
 ## **My stats**
 
-<div style="display: flex; justify-content: center;">
-        <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=unixpariah&show_icons=true&theme=tokyonight&count_private=true" alt=""/>
-        <img style="width: 51%;" src="https://github-readme-streak-stats.herokuapp.com?user=unixpariah&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
-</div>
+  <div style="display: flex; justify-content: center;">
+    <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=unixpariah&show_icons=true&theme=tokyonight&count_private=true" alt=""/>
+    <img style="width: 51%;" src="https://github-readme-streak-stats.herokuapp.com?user=unixpariah&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+  </div>
 
 
 <div>
