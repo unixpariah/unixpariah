@@ -2,7 +2,7 @@
 
 - Proficient in Rust
 - Highly motivated, always willing to go lower
-- Currently rewriting my GUI
+- Currently trying to write my own mini wayland desktop environment
 
 ## **My Skills**
 
