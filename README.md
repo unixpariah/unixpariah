@@ -33,26 +33,11 @@
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-## **My Pride and Joy**
+## **Projects**
 
-- **My desktop project**:
-
-  - *Waystatus* - Simple status bar:
-    <a title="Waystatus: Status bar for wlroots based wayland compositors&#10Rendering from css is handled by my custom crate css-image" href="https://github.com/unixpariah/waystatus" target="_blank" >
-      <img id="status_bar" src="./images/status_bar.png">
-    </a>
-
-  - *Wlrs* - Wallpaper daemon for x11 and wayland as rust library:
-
-    <a title="Ruin: The battery indicator&#10Depends on self written wallpaper daemon as library, wlrs which aims to increase performance by reducing reads and writes to disk" href="https://github.com/unixpariah/ruin" target="_blank" >
-      <img id="wallpaper" src="./images/wallpaper.png">
-    </a>
-
-- **Seto** - Hardware accelerated keyboard based screen selection tool:
-
-  <a title="Seto - keyboard based screen selection tool" href="https://github.com/unixpariah/Seto" target="_blank" >
-    <img id="wallpaper" src="./images/Seto.png">
-  </a>
+- [moxnotify](https://github.com/unixpariah/moxnotify) Feature-rich hardware-accelerated keyboard driven Wayland notification daemon.
+- [moxidle](https://github.com/unixpariah/moxidle) Idle daemon with conditional timeouts and built in audio inhibitor 
+- [seto](https://github.com/unixpariah/seto) Hardware accelerated keyboard driven screen selection tool for wayland compositors 
 
 ## **My stats**
 
